@@ -35,6 +35,8 @@ WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, and LAYING. Th
 * A 561-feature vector with time and frequency domain variables.
 * Its activity label.
 * An identifier of the subject who carried out the experiment."</i>
+(End of original codebook comments)
+
 ***
 
 ## Assumptions
